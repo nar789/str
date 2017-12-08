@@ -1,0 +1,1 @@
+cd str1 && build.bat && cd .. && cd str2 && build.bat && cd .. && cd str3 && build.bat && cd .. && cd str4 && build.bat && cd .. && cd str5 && build.bat && cd .. 
