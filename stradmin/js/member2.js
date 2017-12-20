@@ -43,7 +43,7 @@ function save(){
         var pos=url.indexOf("details?id");
         if(pos>=0){
             url=url.substr(pos,url.length);
-            url="market:"+url;
+            url="market://"+url;
         }
         var title=encodeURIComponent($("#title").val());
         var content=encodeURIComponent($("#content").val());

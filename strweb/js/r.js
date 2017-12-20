@@ -3,6 +3,10 @@ var target=0;
 var tfind=null;
 var ttarget=null;
 
+function adclick(url){
+	window.parent.postMessage(url,"*");	
+}
+
 function connect(){
 
 	if(tfind!=null)return;
