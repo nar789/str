@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Hume" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <!-- Color palette -->
+        <item name="android:colorPrimary">#771222</item>
+        <item name="android:colorPrimaryDark">#771222</item>
+        <item name="android:colorAccent">#771222</item>
+        <item name="android:statusBarColor">#771222</item>
+    </style>
+</resources>
