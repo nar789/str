@@ -62,7 +62,7 @@
 			}// 실질적으로 업로드 시키는 구문
 
 	//$imgurl="./img/".$fileName;
-	$imgurl="http://iop0908.cafe24.com/stradmin/pf/".$upload_filename;
+	$imgurl="http://sos9987.cafe24.com/stradmin/pf/".$upload_filename;
 	$no=$_GET['no'];
 	if(!$no)
 		echo "<script>location.href=\"member.php?url=$imgurl\"</script>";
